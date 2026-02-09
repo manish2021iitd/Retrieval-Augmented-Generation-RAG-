@@ -15,3 +15,5 @@ A typical RAG system consists of a few key parts:
 5. Retriever: When a query comes in, the retriever's job is to find the most relevant chunks from the vector database based on the query's embedding.
 
 6. Augmentation & Generation: The LLM takes the original query and the retrieved relevant chunks as input and generates a coherent and informed response.
+<img width="2000" height="1126" alt="image" src="https://github.com/user-attachments/assets/2118af9e-d2c3-4d84-8118-af77ad9b4ede" />
+<img width="2000" height="1126" alt="image" src="https://github.com/user-attachments/assets/2118af9e-d2c3-4d84-8118-af77ad9b4ede" />
